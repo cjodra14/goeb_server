@@ -1,3 +1,3 @@
-module github.com/goeb_server
+module github.com/cjodra14/goeb_server
 
 go 1.18
